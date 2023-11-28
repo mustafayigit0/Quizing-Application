@@ -1,0 +1,12 @@
+[
+  {"name": "Ingilizce", "backgroundImage": "assets/img/english.png"},
+    {"name": "Ehliyet", "backgroundImage": "assets/img/ehliyet.png"},
+    {"name": "Tarih", "backgroundImage": "assets/img/tarih.png"},
+    {"name": "Cografya", "backgroundImage": "assets/img/cografya.png"},
+    {"name": "Muzik", "backgroundImage": "assets/img/muzik.jpeg"},
+    {"name": "Spor", "backgroundImage": "assets/img/spor.jpg"},
+    {"name": "Gastronomi", "backgroundImage": "assets/img/gastronomi.jpeg"},
+    {"name": "Sinema", "backgroundImage": "assets/img/sinema.jpg"}
+   
+    
+  ]

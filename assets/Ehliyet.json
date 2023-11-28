@@ -1,0 +1,286 @@
+[
+    {
+        "id": 1,
+        "question": "I. Dikkatin dağılması II. Kural ihlallerinin artması III. Sabırsızlık ve tahammülsüzlüğün azalması Verilenlerden hangilerinin, trafikte öfke duygusuna kapılan sürücülerde görülme olasılığı diğer sürücülere göre daha fazladır?",
+        "options": ["A) Yalnız I", "B) I ve II", "C) II ve III", "D) I, II ve III"],
+        "correctAnswer": "B) I ve II"
+    },
+    {
+        "id": 2,
+        "question": "Geçme yapan araca, geçilmekte olan araç sürücüsünün yavaşlayıp kolaylık sağlaması durumu, trafikte hangi temel değerle ifade edilir?",
+        "options": ["A) Bencillik", "B) İnatlaşmak", "C) Diğergamlık", "D) Sorumsuzluk"],
+        "correctAnswer": "C) Diğergamlık"
+    },
+    {
+        "id": 3,
+        "question": "Aşağıdakilerden hangisi, aracın elektrik devrelerinde meydana gelebilecek kısa devre sonunda sistemi olası yangın tehlikesine karşı korumak için kullanılır?",
+        "options": ["A) Flaşör", "B) Sigorta", "C) Far anahtarı", "D) Sinyal ampulü"],
+        "correctAnswer": "B) Sigorta"
+    },
+    {
+        "id": 4,
+        "question": "Aşağıdakilerden hangisi motor yağının eksilmesine neden olur?",
+        "options": ["A) Fren balatalarının aşınması", "B) Karter contasının yırtılması", "C) Hava filtresinin kirlenmesi", "D) Rot ayarının bozulması"],
+        "correctAnswer": "B) Karter contasının yırtılması"
+    },
+    {
+        "id": 5,
+        "question": "Aracın gösterge panelinde, şekilde göülen akü şarj ikaz ışığı yandığı hâlde araç sürülmeye devam edilirse aşağıdakilerden hangisinin olması beklenebilir?",
+        "options": ["A) Yağın azalması", "B) Akünün boşalması", "C) Fren hidroliğinin bitmesi", "D) Marş motorunun arızalanması"],
+        "correctAnswer": "B) Akünün boşalması"
+    },
+    {
+        "id": 6,
+        "question": "Yağ çubuğunun görevi aşağıdakilerden hangisidir?",
+        "options": ["A) Antifriz seviyesini göstermek", "B) Elektrolit seviyesini göstermek", "C) Motor yağı seviyesini göstermek", "D) Soğutma suyu seviyesini göstermek"],
+        "correctAnswer": "C) Motor yağı seviyesini göstermek"
+    },
+    {
+        "id": 7,
+        "question": "Marş yapıldığında marş motoru yavaş dönüyorsa sebebi aşağıdakilerden hangisi olabilir?",
+        "options": ["A) Far kablo bağlantılarının oksitlenmesi", "B) Akü şarj durumunun yeterli olmaması", "C) Hava filtresinin kirlenmesi", "D) Bujilerin eskimesi"],
+        "correctAnswer": "B) Akü şarj durumunun yeterli olmaması"
+    },
+    {
+        "id": 8,
+        "question": "Dört zamanlı benzinli motorlarda, zamanların oluşum sırası aşağıdaki gibidir. Buna göre, hangi zamanda emme supabı açılır ve silindirlere yakıt-hava karışımı girer?",
+        "options": ["A) Emme zamanı", "B) Sıkıştırma zamanı", "C) Ateşleme (İş) zamanı", "D) Egzoz zamanı"],
+        "correctAnswer": "A) Emme zamanı"
+    },
+    {
+        "id": 9,
+        "question": "Ağır hasarlı veya ölümlü trafik kazalarına karışan sürücülerin aşağıdakilerden hangisini yapması yasaktır?",
+        "options": ["A) Kazaya karışan aracın yerini değiştirmesi", "B) Olayı en kısa zamanda yetkililere bildirmesi", "C) Trafik güvenliği için ışıklı yansıtıcı cihazlar koyması", "D) İstenildiği takdirde gerekli bilgi ve belgeleri karşı tarafa vermesi"],
+        "correctAnswer": "A) Kazaya karışan aracın yerini değiştirmesi"
+    },
+    {
+        "id": 10,
+        "question": "Şekildeki araç sürücüsü, kamu hizmeti yapan yolcu taşıtı durağının en az kaç metre mesafe dışına aracını park edebilir?",
+        "options": ["A) 5", "B) 10", "C) 15", "D) 20"],
+        "correctAnswer": "C) 15"
+    },
+    {
+        "id": 11,
+        "question": "Geceleyin, görüşün yeterli olmadığı kavşağa yaklaşan sürücü gelişini nasıl haber vermelidir?",
+        "options": ["A) Dönüş ışıklarını yakarak", "B) Birkaç defa korna çalarak", "C) Acil uyarı ışıklarını yakarak", "D) Birkaç defa selektör yaparak"],
+        "correctAnswer": "C) Acil uyarı ışıklarını yakarak"
+    },
+    {
+        "id": 12,
+        "question": "Şekildeki durakta yolcu indirme ve bindirme yapılması durumunda, araç sürücüsü yola en yakın sağ şeridi kullanarak durmalı ve yolcuları emniyetle indirmeli veya bindirmelidir. Sürücü, şerit değiştirmek isterse aşağıdakilerden hangisini yapmalıdır?",
+        "options": ["A) Sağa dönmeli", "B) Yolcu bırakmalı", "C) Yandaki şeritteki araçlara yol vermelidir", "D) Hızını artırmalı"],
+        "correctAnswer": "C) Yandaki şeritteki araçlara yol vermelidir"
+    },
+    {
+        "id": 13,
+        "question": "Aşağıdakilerden hangisi, motorun soğutma sistemine aittir?",
+        "options": ["A) Karter", "B) Radyatör", "C) Debriyaj", "D) Salıncak kolu"],
+        "correctAnswer": "B) Radyatör"
+    },
+    {
+        "id": 14,
+    "question": "Şekildeki durakta yolcu indirme ve bindirme yapılması durumunda, araç sürücüsü yola en yakın sağ şeridi kullanarak durmalı ve yolcuları emniyetle indirmeli veya bindirmelidir. Sürücü, şerit değiştirmek isterse aşağıdakilerden hangisini yapmalıdır?",
+    "options": ["A) Sağa dönmeli", "B) Yolcu bırakmalı", "C) Yandaki şeritteki araçlara yol vermelidir", "D) Hızını artırmalı"],
+    "correctAnswer": "C) Yandaki şeritteki araçlara yol vermelidir"
+},
+{
+    "id": 15,
+    "question": "Aşağıdaki davranışlardan hangisi, trafikte güvenliği tehlikeye düşüren bir davranıştır?",
+    "options": ["A) Taşıtın bakımını düzenli olarak yaptırmak", "B) Trafik işaret ve levhalarına uymak", "C) Trafikte hız sınırlarına uymamak", "D) Diğer sürücülerle işbirliği yapmak"],
+    "correctAnswer": "C) Trafikte hız sınırlarına uymamak"
+},
+{
+    "id": 16,
+    "question": "Aşağıdakilerden hangisi, sürücünün direksiyon hakimiyetini kaybetmesine neden olan durumlar arasında değildir?",
+    "options": ["A) Kaygan zemin", "B) Yüksek hız", "C) Düşük lastik basıncı", "D) Emniyet kemeri kullanımı"],
+    "correctAnswer": "D) Emniyet kemeri kullanımı"
+},
+{
+    "id": 17,
+    "question": "Araçlar, trafikte hangi temel ilkeye göre hareket etmelidir?",
+    "options": ["A) İleriyi görebilmek", "B) Öncelik hakkına uymak", "C) Zorlananı kurtarmak", "D) Yavaş gidene yol vermek"],
+    "correctAnswer": "B) Öncelik hakkına uymak"
+},
+{
+    "id": 18,
+    "question": "Şekildeki durakta yolcu indirme ve bindirme yapılması durumunda, araç sürücüsü yola en yakın sağ şeridi kullanarak durmalı ve yolcuları emniyetle indirmeli veya bindirmelidir. Sürücü, şerit değiştirmek isterse aşağıdakilerden hangisini yapmalıdır?",
+    "options": ["A) Sağa dönmeli", "B) Yolcu bırakmalı", "C) Yandaki şeritteki araçlara yol vermelidir", "D) Hızını artırmalı"],
+    "correctAnswer": "C) Yandaki şeritteki araçlara yol vermelidir"
+},
+{
+    "id": 19,
+    "question": "Araçlarda fren sistemlerinin etkili olabilmesi için hangi bileşenin sürekli bakımının yapılması önemlidir?",
+    "options": ["A) Direksiyon kutusu", "B) Şanzıman", "C) Fren balataları", "D) Buji"],
+    "correctAnswer": "C) Fren balataları"
+},
+{
+    "id": 20,
+    "question": "Sürücü, trafikte öncelik kurallarına uymadığı durumda aşağıdakilerden hangisi ile karşılaşabilir?",
+    "options": ["A) Trafik polisinin takdir belgesi", "B) Trafik cezası", "C) Öncelik geçiş belgesi", "D) Vergi indirimi"],
+    "correctAnswer": "B) Trafik cezası"
+},
+{
+    "id": 21,
+    "question": "Aşağıdakilerden hangisi sürücünün dikkatini dağıtabilecek bir davranıştır?",
+    "options": ["A) Sesli kitap dinlemek", "B) Araç içinde sigara içmek", "C) Gerekli durumlarda cep telefonu kullanmak", "D) Emniyet kemeri takmak"],
+    "correctAnswer": "C) Gerekli durumlarda cep telefonu kullanmak"
+},
+{
+    "id": 22,
+    "question": "Araç sürücülerinin, özellikle şehir içi trafiğinde, ani ve sık şerit değiştiren araçlara karşı dikkatli olmalarının nedeni nedir?",
+    "options": ["A) Araçların daha hızlı gitmeleri", "B) Bu tür araç sürücülerinin genç olmaları", "C) Kaza riskinin artması", "D) Trafik kurallarını bilmemeleri"],
+    "correctAnswer": "C) Kaza riskinin artması"
+},
+{
+    "id": 23,
+    "question": "Aşağıdaki seçeneklerden hangisi, sürücünün güzergahını belirlemede ve seyahat süresince doğru kararlar almasında yardımcı olan bir cihazdır?",
+    "options": ["A) Korna", "B) Navigasyon cihazı", "C) Farlar", "D) Egzoz sistemi"],
+    "correctAnswer": "B) Navigasyon cihazı"
+},
+{
+    "id": 24,
+    "question": "Yavaş giden bir aracın arkasında seyreden sürücü, güvenli bir şekilde nasıl geçebilir?",
+    "options": ["A) Yolun sol şeridini kullanarak", "B) Uzun farları yakarak", "C) Korna çalarak", "D) Yakın takip yaparak"],
+    "correctAnswer": "A) Yolun sol şeridini kullanarak"
+},
+{
+    "id": 25,
+    "question": "Araç sürücüleri, trafikte aşağıdaki temel kurallardan hangisine uymalıdır?",
+    "options": ["A) Işıklı işaretlere uymamak", "B) Trafikte hız sınırlarına uymak", "C) Emniyet kemeri kullanmamak", "D) Hatalı sollama yapmak"],
+    "correctAnswer": "B) Trafikte hız sınırlarına uymak"
+},
+{
+    "id": 26,
+    "question": "Seyir halindeyken aracın direksiyonundan aniden titreşim gelmesi durumunda, sürücü aşağıdaki durumları kontrol etmelidir. Hangisi bu durumda incelenmelidir?",
+    "options": ["A) Radyo sistemi", "B) Motor sistemi", "C) Klima sistemi", "D) Aydınlatma sistemi"],
+    "correctAnswer": "B) Motor sistemi"
+},
+{
+    "id": 27,
+    "question": "Araçlarda düzenli bakımın yapılması neden önemlidir?",
+    "options": ["A) Yakıt tüketimini artırmak için", "B) Araç performansını düşürmek için", "C) Güvenliği sağlamak ve arızaları önlemek için", "D) Tamir masraflarını artırmak için"],
+    "correctAnswer": "C) Güvenliği sağlamak ve arızaları önlemek için"
+},
+{
+    "id": 28,
+    "question": "Yol kenarında duran bir araçtan yolcular inerken veya binerken sürücü ne yapmalıdır?",
+    "options": ["A) Araçtan uzaklaşmalı", "B) Yolculara yardım etmelidir", "C) Araç içinde oturmalı", "D) Gürültü yapmalı"],
+    "correctAnswer": "C) Araç içinde oturmalı"
+},
+{
+    "id": 29,
+    "question": "Araç sürücüleri, trafikte diğer sürücülerle iletişim kurarken hangi davranışı sergilemelidir?",
+    "options": ["A) Korna çalarak", "B) Saygılı ve anlayışlı olmalı", "C) Tehlikeli manevralar yaparak", "D) Farları sürekli yakarak"],
+    "correctAnswer": "B) Saygılı ve anlayışlı olmalı"
+},
+{
+    "id": 30,
+    "question": "Araç sürücüsü, seyir halindeyken bir başka aracın arkasında uzun süre kalıyorsa ne yapmalıdır?",
+    "options": ["A) Aracını hemen sollamalı", "B) Sabırlı olmalı ve uygun bir fırsatta güvenli bir şekilde sollamalı", "C) Arkadaki aracın sürücüsüne korna çalmalı", "D) Arkadan hızlı bir şekilde geçmeli"],
+    "correctAnswer": "B) Sabırlı olmalı ve uygun bir fırsatta güvenli bir şekilde sollamalı"
+},
+{
+    "id": 31,
+    "question": "Araç sürücüleri, trafikte özellikle hangi durumda hızlarını azaltmalıdır?",
+    "options": ["A) Yol düz ve geniş olduğunda", "B) Trafik yoğunluğu azaldığında", "C) Dönemeçlerde ve dar yollarda", "D) Yolun sağ şeridinde seyrettiklerinde"],
+    "correctAnswer": "C) Dönemeçlerde ve dar yollarda"
+},
+{
+    "id": 32,
+    "question": "Sürücüler, trafikte seyir halindeyken aşağıdaki durumlardan hangisinde zorunlu olarak farları kullanmalıdır?",
+    "options": ["A) Gündüzleri", "B) Gece ve görüş mesafesi yetersiz olduğunda", "C) Sadece yağışlı havalarda", "D) Yolun aydınlık olduğu durumlarda"],
+    "correctAnswer": "B) Gece ve görüş mesafesi yetersiz olduğunda"
+},
+{
+    "id": 33,
+    "question": "Araç sürücüleri, trafikte seyir halindeyken neden birbirlerine yol vermelidir?",
+    "options": ["A) Trafikte kavga çıkarmamak için", "B) Trafik kurallarını ihlal etmek için", "C) Öncelik hakkına uymak için", "D) Arabalarını gösteriş için"],
+    "correctAnswer": "C) Öncelik hakkına uymak için"
+},
+{
+    "id": 34,
+    "question": "Araç sürücüleri, aşağıdaki durumları önlemek için nasıl bir mesafe bırakmalıdır?",
+    "options": ["A) Diğer araçları takip etmek için", "B) Sadece trafik yoğunluğu olduğunda", "C) Güvenli takip mesafesi bırakmalıdır", "D) Seyir halindeyken hiç mesafe bırakmamalıdır"],
+    "correctAnswer": "C) Güvenli takip mesafesi bırakmalıdır"
+},
+{
+    "id": 35,
+    "question": "Araç sürücüsü, trafikte karşılaştığı bir yaya geçidinde ne yapmalıdır?",
+    "options": ["A) Korna çalıp süratle geçmelidir", "B) Yavaşlamalı ve yayaya öncelik tanımalıdır", "C) Yolu kapatmalı ve geçmesine izin vermemelidir", "D) Yayayı dikkate almamalıdır"],
+    "correctAnswer": "B) Yavaşlamalı ve yayaya öncelik tanımalıdır"
+},
+{
+    "id": 36,
+    "question": "Araç sürücüleri, kavşaklara yaklaşırken aşağıdaki davranışlardan hangisini sergilemelidir?",
+    "options": ["A) Öncelikli olduklarını düşünerek hızlanmalı", "B) Trafik kurallarına uymalı, işaretlere ve levhalara dikkat etmelidir", "C) Diğer araçları zorla durdurmaya çalışmalı", "D) Yol verme hakkını kullanmamalı"],
+    "correctAnswer": "B) Trafik kurallarına uymalı, işaretlere ve levhalara dikkat etmelidir"
+},
+{
+    "id": 37,
+    "question": "Araç sürücüleri, aşağıdaki durumlardan hangisinde sollama yapmalıdır?",
+    "options": ["A) Sollama yapmak yasaksa", "B) Sollama yapmak tehlikeliyse", "C) Trafik yoğunluğu varsa", "D) Güvenli ve uygun bir yerde sollama yapabilirse"],
+    "correctAnswer": "D) Güvenli ve uygun bir yerde sollama yapabilirse"
+},
+{
+    "id": 38,
+    "question": "Araç sürücüleri, aşağıdaki durumların hangisinde hızlarını artırmalıdır?",
+    "options": ["A) Okul önlerinde", "B) Yaya geçitlerinde", "C) Trafik yoğunluğu olduğunda", "D) Gece ve sisli havalarda"],
+    "correctAnswer": "C) Trafik yoğunluğu olduğunda"
+},
+{
+    "id": 39,
+    "question": "Araç sürücüleri, aşağıdaki durumların hangisinde sollama yapmamalıdır?",
+    "options": ["A) Önlerindeki araç hız yapıyorsa", "B) Sollama yapmak mümkünse", "C) Sollama yapmak güvenliyse", "D) Karşı yönden araç gelirse"],
+    "correctAnswer": "D) Karşı yönden araç gelirse"
+},
+{
+    "id": 40,
+    "question": "Araç sürücüleri, aşağıdaki durumların hangisinde hızlarını azaltmalıdır?",
+    "options": ["A) Yol düz ve geniş olduğunda", "B) Trafik yoğunluğu azaldığında", "C) Yaya geçitlerine yaklaştıklarında", "D) Gürültü yapmak istediklerinde"],
+    "correctAnswer": "C) Yaya geçitlerine yaklaştıklarında"
+},
+{
+    "id": 41,
+    "question": "Araç sürücüleri, aşağıdaki durumların hangisinde hızlarını korumalıdır?",
+    "options": ["A) Virajlarda", "B) Kavşaklarda", "C) Yaya geçitlerinde", "D) Trafik ışıklarında"],
+    "correctAnswer": "A) Virajlarda"
+},
+{
+    "id": 42,
+    "question": "Araç sürücüleri, aşağıdaki durumların hangisinde önlerindeki aracı yakından takip etmemelidir?",
+    "options": ["A) Trafik yoğunluğu olmadığında", "B) Yüksek hızlarda seyrettiklerinde", "C) Gece ve yağmurlu havalarda", "D) Yavaş gittiklerinde"],
+    "correctAnswer": "B) Yüksek hızlarda seyrettiklerinde"
+},
+{
+    "id": 43,
+    "question": "Araç sürücüleri, aşağıdaki durumların hangisinde korna çalabilir?",
+    "options": ["A) Yolun karşısına geçen yayaya", "B) Trafikte ilerlemekte olan diğer araçlara", "C) Kavşaklara yaklaşırken", "D) Park halindeki araçlara"],
+    "correctAnswer": "C) Kavşaklara yaklaşırken"
+},
+{
+    "id": 44,
+    "question": "Araç sürücüleri, aşağıdaki durumların hangisinde dikkatli olmalı ve hızlarını azaltmalıdır?",
+    "options": ["A) Gece ve aydınlık havalarda", "B) Yüksek hızla seyrettiklerinde", "C) Sisli havalarda", "D) Güzel havada"],
+    "correctAnswer": "C) Sisli havalarda"
+},
+{
+    "id": 45,
+    "question": "Araç sürücüleri, aşağıdaki durumların hangisinde önlerindeki aracın sinyallerine dikkat etmelidir?",
+    "options": ["A) Normal seyir halindeyken", "B) Sollama yaparken", "C) Duraklarda", "D) Duraklamalarda ve dönemeçlerde"],
+    "correctAnswer": "D) Duraklamalarda ve dönemeçlerde"
+},
+{
+    "id": 46,
+    "question": "Araç sürücüleri, kavşaklara yaklaşırken aşağıdaki davranışlardan hangisini sergilemelidir?",
+    "options": ["A) Öncelikli olduklarını düşünerek hızlanmalı", "B) Trafik kurallarına uymalı, işaretlere ve levhalara dikkat etmelidir", "C) Diğer araçları zorla durdurmaya çalışmalı", "D) Yol verme hakkını kullanmamalı"],
+    "correctAnswer": "B) Trafik kurallarına uymalı, işaretlere ve levhalara dikkat etmelidir"
+ 
+},
+{
+    "id": 47,
+    "question": "Araç sürücüleri, aşağıdaki durumlardan hangisinde sollama yapmalıdır?",
+    "options": ["A) Sollama yapmak yasaksa", "B) Sollama yapmak tehlikeliyse", "C) Trafik yoğunluğu varsa", "D) Güvenli ve uygun bir yerde sollama yapabilirse"],
+    "correctAnswer": "D) Güvenli ve uygun bir yerde sollama yapabilirse"
+    
+}
+]

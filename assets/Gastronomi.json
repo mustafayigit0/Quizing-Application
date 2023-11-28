@@ -1,0 +1,237 @@
+[
+    {
+      "id": 1,
+      "question": "Pasta yapımında kullanılan unun diğer adı nedir?",
+      "options": ["a. Çavdar unu", "b. Yulaf unu", "c. Mısır unu", "d. Öğütülmüş buğday tanesi"],
+      "correctAnswer": "d. Öğütülmüş buğday tanesi"
+    },
+    {
+      "id": 2,
+      "question": "Fırında pişirilen yemeklere ne ad verilir?",
+      "options": ["a. Kaynatma", "b. Haşlama", "c. Kızartma", "d. Izgara"],
+      "correctAnswer": "c. Kızartma"
+    },
+    {
+      "id": 3,
+      "question": "Meksika mutfağının vazgeçilmezleri arasında bulunan, tortilla ile sarılarak yapılan yemeğe ne ad verilir?",
+      "options": ["a. Enchilada", "b. Burrito", "c. Quesadilla", "d. Tostada"],
+      "correctAnswer": "b. Burrito"
+    },
+    {
+      "id": 4,
+      "question": "Fırında közlenmiş patlıcan, susam ezmesi ve yoğurtla yapılan bir Türk yemeği olan ?",
+      "options": ["a. Karnıyarık", "b. Imam Bayildi", "c. Babaganuş", "d. Mücver"],
+      "correctAnswer": "c. Babaganuş"
+    },
+    {
+      "id": 5,
+      "question": "Türk mutfağında kıyma, pirinç, soğan ve baharatlarla hazırlanan ve genellikle iç harcı dolgu için kullanılan bir yemek olan ?",
+      "options": ["a. Mantı", "b. Dolma", "c. Kısır", "d. Lahmacun"],
+      "correctAnswer": "b. Dolma"
+    },
+    {
+      "id": 6,
+      "question": "Hint mutfağında kıyma, soğan ve baharatlarla hazırlanan, tavada kızartılan köfte türüne ne ad verilir?",
+      "options": ["a. Samosa", "b. Pakora", "c. Tikka", "d. Kofta"],
+      "correctAnswer": "d. Kofta"
+    },
+    {
+      "id": 7,
+      "question": "Japon mutfağında deniz yosunu ile sarılmış pirinç topundan hazırlanan ve genellikle balık, deniz ürünleri, sebze veya tofu ile doldurulan yemeğe ne ad verilir?",
+      "options": ["a. Sashimi", "b. Sushi", "c. Tempura", "d. Ramen"],
+      "correctAnswer": "b. Sushi"
+    },
+    {
+      "id": 8,
+      "question": "Genellikle dilimlenmiş olan ve tavada pişirilen İtalyan mutfağına ait incecik hamur tabak yemeğine ne ad verilir?",
+      "options": ["a. Calzone", "b. Focaccia", "c. Pizza", "d. Pasta"],
+      "correctAnswer": "c. Pizza"
+    },
+    {
+      "id": 9,
+      "question": "Genellikle kırmızı sos ve peynir ile hazırlanan, İtalyan mutfağına ait ince uzun makarna türüne ne ad verilir?",
+      "options": ["a. Ravioli", "b. Tortellini", "c. Spaghetti", "d. Tagliatelle"],
+      "correctAnswer": "c. Spaghetti"
+    },
+    {
+      "id": 10,
+      "question": "Çin mutfağının vazgeçilmez yemeği olan, tavada kızartılmış ince şerit doğranmış tavuk eti ile sebze karışımından oluşan yemeğe ne ad verilir?",
+      "options": ["a. Kung Pao tavuk", "b. Chop Suey", "c. General Tso'nun tavuğu", "d. Pekin ördeği"],
+      "correctAnswer": "a. Kung Pao tavuk"
+    },
+    {
+      "id": 11,
+      "question": "İtalyan mutfağına ait, tel şehriye kıvamında erişte türüne ne ad verilir?",
+      "options": ["a. Lasagna", "b. Penne", "c. Farfalle", "d. Fettuccine"],
+      "correctAnswer": "b. Penne"
+    },
+    {
+      "id": 12,
+      "question": "Bir İtalyan kahvesi olan, sıcak süt ve espresso karışımı içeceğe ne ad verilir?",
+      "options": ["a. Macchiato", "b. Cappuccino", "c. Latte", "d. Espresso"],
+      "correctAnswer": "c. Latte"
+    },
+    {
+      "id": 13,
+      "question": "Genellikle karamelize edilmiş şeker ve krema ile hazırlanan, Fransız mutfağına ait tatlıya ne ad verilir?",
+      "options": ["a. Profiterol", "b. Crème brûlée", "c. Eclaire", "d. Mille-feuille"],
+      "correctAnswer": "b. Crème brûlée"
+    },
+    {
+      "id": 14,
+      "question": "Hint mutfağına ait, baharatlı ve yoğurtlu sos ile marine edilmiş tavuk etinin üzerine yerleştirilen metal şişe takılıp kömür ateşinde pişirilen yemeğe ne ad verilir?",
+      "options": ["a. Kebap", "b. Tikka", "c. Tandoori", "d. Kurma"],
+      "correctAnswer": "c. Tandoori"
+    },
+    {
+      "id": 15,
+      "question": "Yunan mutfağına ait, zeytinyağı, limon suyu ve sarımsak ile marine edilmiş kuzu etinin çevredeki sebzelerle birlikte fırında pişirildiği yemeğe ne ad verilir?",
+      "options": ["a. Souvlaki", "b. Moussaka", "c. Gyros", "d. Kleftiko"],
+      "correctAnswer": "d. Kleftiko"
+    },
+    {
+      "id": 16,
+      "question": "Çin mutfağının vazgeçilmezlerinden olan, soya sosu, sirke ve sarımsak ile marine edilmiş ve genellikle kızartılarak yapılan tavuk kanat yemeğine ne ad verilir?",
+      "options": ["a. Sweet and sour chicken", "b. Kung Pao chicken", "c. General Tso's chicken", "d. Teriyaki chicken"],
+      "correctAnswer": "a. Sweet and sour chicken"
+    },
+    {
+      "id": 17,
+      "question": "Hindistan mutfağına ait, nohut unu ve baharatlarla hazırlanan, tavada kızartılan akışkan bir hamur tatlısına ne ad verilir?",
+      "options": ["a. Gulab jamun", "b. Jalebi", "c. Laddu", "d. Barfi"],
+      "correctAnswer": "b. Jalebi"
+    },
+    {
+      "id": 18,
+      "question": "Türk mutfağında, mantar, biber ve domates gibi sebzelerle hazırlanan et yemeğine ne ad verilir?",
+      "options": ["a. Kuzu tandır", "b. Kuru fasulye", "c. Etli pilav", "d. Güveç"],
+      "correctAnswer": "d. Güveç"
+    },
+    {
+      "id": 19,
+      "question": "Akdeniz mutfağının bir parçası olan, közlenmiş patlıcan, kırmızı biber, sarımsak ve zeytinyağı ile hazırlanan yayık ayranlı sos ile servis edilen bir yemeğe ne ad verilir?",
+      "options": ["a. Baba ghanoush", "b. Humus", "c. Tzatziki", "d. Muhammara"],
+      "correctAnswer": "a. Baba ghanoush"
+    },
+    {
+      "id": 20,
+      "question": "Meksika mutfağına ait, mısır unundan yapılmış ve içerisine et, peynir veya sebze konularak katlanıp kızartılan bir yemeğe ne ad verilir?",
+      "options": ["a. Tostada", "b. Quesadilla", "c. Enchilada", "d. Gordita"],
+      "correctAnswer": "c. Enchilada"
+    },
+    {
+      "id": 21,
+      "question": "Moğolistan mutfağına ait, sebzeler ve etin özel bir sos ile karıştırılarak büyük bir tavada pişirildiği yemeğe ne ad verilir?",
+      "options": ["a. Bulgogi", "b. Bibimbap", "c. Hot pot", "d. Mongolian barbecue"],
+      "correctAnswer": "d. Mongolian barbecue"
+    },
+    {
+      "id": 22,
+      "question": "İspanyol mutfağına ait, pirinç, tavuk, deniz ürünleri ve safran ile yapılan bir tür pilava ne ad verilir?",
+      "options": ["a. Arroz con pollo", "b. Paella", "c. Fideuà", "d. Gazpacho"],
+      "correctAnswer": "b. Paella"
+    },
+    {
+      "id": 23,
+      "question": "Amerikan mutfağına ait, yağda kızartılmış mısır unu karışımı ile hazırlanan kabarcıklı, gevrek bir yemeğe ne ad verilir?",
+      "options": ["a. Cornbread", "b. Biscuit", "c. Hushpuppy", "d. Funnel cake"],
+      "correctAnswer": "c. Hushpuppy"
+    },
+    {
+      "id": 24,
+      "question": "Fransız mutfağına ait, pişmiş hamur işi, tatlı, tuzlu veya çikolatalı olarak hazırlanabilen yemeğe ne ad verilir?",
+      "options": ["a. Croissant", "b. Eclair", "c. Quiche", "d. Soufflé"],
+      "correctAnswer": "a. Croissant"
+    },
+    {
+      "id": 25,
+      "question": "Türk mutfağında, hamurun arasına konan ve kızartılan tatlıya ne ad verilir?",
+      "options": ["a. Kadayıf", "b. Baklava", "c. Lokma", "d. Güllaç"],
+      "correctAnswer": "c. Lokma"
+    },
+    {
+      "id": 26,
+      "question": "İngiliz mutfağına ait, ekmek dilimleri ile hazırlanan ve üzerine krema, yumurta, şeker ve tarçın dökülerek fırınlanan tatlıya ne ad verilir?",
+      "options": ["a. Trifle", "b. Crumble", "c. Bread and butter pudding", "d. Scone"],
+      "correctAnswer": "c. Bread and butter pudding"
+    },
+    {
+      "id": 27,
+      "question": "Türk mutfağında, peynir, patlıcan, kabak, biber gibi sebzelerle yapılan bir yemek olan ?",
+      "options": ["a. Musakka", "b. Hünkar beğendi", "c. Manisa köfte", "d. Kıymalı pide"],
+      "correctAnswer": "a. Musakka "
+    },
+    {
+      "id": 28,
+      "question": "Genellikle çay saatlerinde tüketilen, çikolata, reçel veya krem ile doldurulmuş minik yaş pasta parçalarına ne ad verilir?",
+      "options": ["a. Muffin", "b. Cupcake", "c. Scone", "d. Brownie"],
+      "correctAnswer": "b. Cupcake"
+    },
+    {
+      "id": 29,
+      "question": "Yunan mutfağına ait, fıstık ezmesi, bal ve tahin ile yapılan tatlı bir tabak yemeği olan ?",
+      "options": ["a. Baklava", "b. Galaktoboureko", "c. Loukoumades", "d. Pastitsio"],
+      "correctAnswer": "c. Loukoumades"
+    },
+    {
+      "id": 30,
+      "question": "Meksika mutfağına ait, mısır unu tortilla arasında peynir, kıyma veya sebzelerle hazırlanan ve tavada kızartılan yemeğe ne ad verilir?",
+      "options": ["a. Quesadilla", "b. Tostada", "c. Enchilada", "d. Gordita"],
+      "correctAnswer": "a. Quesadilla "
+    },
+    {
+      "id": 31,
+      "question": "Hint mutfağına ait, pirinç, mercimek, sebzeler ve gerekirse et ile yapılan baharatlı bir pilava ne ad verilir?",
+      "options": ["a. Biryani", "b. Pulao", "c. Khichdi", "d. Upma"],
+      "correctAnswer": "a. Biryani"
+    },
+    {
+      "id": 32,
+      "question": "Amerikan mutfağının vazgeçilmez tatlılarından biri olan, genellikle kıtır çıtır kabuklu ve reçel dolgulu tatlıya ne ad verilir?",
+      "options": ["a. Donut", "b. Bagel", "c. Croissant", "d. Pastry"],
+      "correctAnswer": "a. Donut"
+    },
+    {
+      "id": 33,
+      "question": "Japonya'nın geleneksel kızarmış tavuk parçalarından oluşan yemeğine ne ad verilir?",
+      "options": ["a. Tempura", "b. Sushi", "c. Ramen", "d. Karaage"],
+      "correctAnswer": "d. Karaage"
+    },
+    {
+      "id": 34,
+      "question": "Hindistan mutfağının önemli bir parçası olan, kızarmış ekmek (nan) ve yumurta tatlısından oluşan yemeğe ne ad verilir?",
+      "options": ["a. Naan", "b. Roti", "c. Lassi", "d. Laddu"],
+      "correctAnswer": "c. Lassi"
+    },
+    {
+      "id": 35,
+      "question": "Çin mutfağına ait, tavada kızartılmış, soya soslu ve sebzelerle hazırlanan noodle yemeğine ne ad verilir?",
+      "options": ["a. Chow mein", "b. Lo mein", "c. Dumpling", "d. Won ton soup"],
+      "correctAnswer": "a. Chow mein"
+    },
+    {
+      "id": 36,
+      "question": "Türk mutfağının vazgeçilmez bir çorbasına ne ad verilir?",
+      "options": ["a. Mercimek çorbası", "b. Tarhana çorbası", "c. İşkembe çorbası", "d. Tavuk suyu çorbası"],
+      "correctAnswer": "a. Mercimek çorbası"
+    },
+    {
+      "id": 37,
+      "question": "İtalya'ya özgü, hamurun kenarları kabarık ve kenarlarından lezzetli bir kaplama ile pişirilen pizza türüne ne ad verilir?",
+      "options": ["a. Neapolitan pizza", "b. Sicilian pizza", "c. Chicago deep dish pizza", "d. New York style pizza"],
+      "correctAnswer": "a. Neapolitan pizza"
+    },
+    {
+      "id": 38,
+      "question": "Türk mutfağında, yoğurt ve kırmızı pul biberle tatlandırılan, genellikle döner ve kebapların yanında servis edilen yemeğe ne ad verilir?",
+      "options": ["a. Humus", "b. Tarator", "c. Haydari", "d. Cacık"],
+      "correctAnswer": "d. Cacık"
+    },
+    {
+        "id": 40,
+        "question": "Hangi ülkenin mutfağında 'pierogi' adı verilen mantar veya et dolgulu hamur işleri bulunur?",
+        "options": ["a. Polonya", "b. İsveç", "c. İspanya", "d. Yunanistan"],
+        "correctAnswer": "a. Polonya"
+    }
+
+  ]
